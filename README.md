@@ -2,12 +2,12 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Application Load Balancer](https://img.shields.io/badge/Application_Load_Balancer-FF9900?style=for-the-badge)
-![Auto Scaling Group](https://img.shields.io/badge/Auto_Scaling_Group-FF9900?style=for-the-badge)
-![Launch Template](https://img.shields.io/badge/Launch_Template-FF9900?style=for-the-badge)
-![Target Group](https://img.shields.io/badge/Target_Group-FF9900?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
-![Amazon Linux 2023](https://img.shields.io/badge/Amazon_Linux_2023-232F3E?style=for-the-badge&logo=linux&logoColor=white)
+![Application Load Balancer](https://img.shields.io/badge/Application_Load_Balancer-0078D4?style=for-the-badge)
+![Auto Scaling Group](https://img.shields.io/badge/Auto_Scaling_Group-28A745?style=for-the-badge)
+![Launch Template](https://img.shields.io/badge/Launch_Template-6F42C1?style=for-the-badge)
+![Target Group](https://img.shields.io/badge/Target_Group-17A2B8?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-E83E8C?style=for-the-badge)
+![Amazon Linux 2023](https://img.shields.io/badge/Amazon_Linux_2023-343A40?style=for-the-badge&logo=linux&logoColor=white)
 ![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 A hands-on AWS project demonstrating how to build a scalable, highly available, and fault-tolerant web application using Amazon EC2, an Application Load Balancer (ALB), and an Auto Scaling Group (ASG).
